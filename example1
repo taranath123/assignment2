@@ -1,10 +1,10 @@
-Write a Java program to build the GUI application using JavaFX for the following requirements:
+/*Write a Java program to build the GUI application using JavaFX for the following requirements:
 a) Read user name and password using appropriate JavaFX controls.
 b) Validate the input. If user name and password are matched with the assumed values, then display the welcome scene with proper text.
-c) If user name and password don’t match, then raise appropriate exception.
+c) If user name and password don’t match, then raise appropriate exception.*/
 
-Java Program:
-: import javafx.application.Application; 
+
+import javafx.application.Application; 
 import javafx.geometry.Pos; 
 import javafx.scene.Scene; 
 import javafx.scene.control.Button; 
